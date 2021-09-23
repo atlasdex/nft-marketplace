@@ -1,0 +1,11 @@
+/home/aaraneth1337/Desktop/xordsolana/try/anchor/tests/spl/token-proxy/target/bpfel-unknown-unknown/release/deps/sha3-101582c67fd1d23b.rmeta: /home/aaraneth1337/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/lib.rs /home/aaraneth1337/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/paddings.rs /home/aaraneth1337/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/macros.rs /home/aaraneth1337/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/reader.rs /home/aaraneth1337/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/state.rs
+
+/home/aaraneth1337/Desktop/xordsolana/try/anchor/tests/spl/token-proxy/target/bpfel-unknown-unknown/release/deps/libsha3-101582c67fd1d23b.rlib: /home/aaraneth1337/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/lib.rs /home/aaraneth1337/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/paddings.rs /home/aaraneth1337/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/macros.rs /home/aaraneth1337/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/reader.rs /home/aaraneth1337/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/state.rs
+
+/home/aaraneth1337/Desktop/xordsolana/try/anchor/tests/spl/token-proxy/target/bpfel-unknown-unknown/release/deps/sha3-101582c67fd1d23b.d: /home/aaraneth1337/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/lib.rs /home/aaraneth1337/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/paddings.rs /home/aaraneth1337/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/macros.rs /home/aaraneth1337/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/reader.rs /home/aaraneth1337/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/state.rs
+
+/home/aaraneth1337/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/lib.rs:
+/home/aaraneth1337/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/paddings.rs:
+/home/aaraneth1337/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/macros.rs:
+/home/aaraneth1337/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/reader.rs:
+/home/aaraneth1337/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/state.rs:

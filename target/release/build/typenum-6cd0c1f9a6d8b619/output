@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/aaraneth1337/Desktop/xordsolana/try/anchor/tests/spl/token-proxy/target/release/build/typenum-6cd0c1f9a6d8b619/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/aaraneth1337/Desktop/xordsolana/try/anchor/tests/spl/token-proxy/target/release/build/typenum-6cd0c1f9a6d8b619/out/op.rs

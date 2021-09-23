@@ -1,0 +1,10 @@
+/home/aaraneth1337/Desktop/xordsolana/try/anchor/tests/spl/token-proxy/target/bpfel-unknown-unknown/release/deps/memoffset-a65d91eae24ca101.rmeta: /home/aaraneth1337/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.6.4/src/lib.rs /home/aaraneth1337/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.6.4/src/raw_field.rs /home/aaraneth1337/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.6.4/src/offset_of.rs /home/aaraneth1337/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.6.4/src/span_of.rs
+
+/home/aaraneth1337/Desktop/xordsolana/try/anchor/tests/spl/token-proxy/target/bpfel-unknown-unknown/release/deps/libmemoffset-a65d91eae24ca101.rlib: /home/aaraneth1337/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.6.4/src/lib.rs /home/aaraneth1337/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.6.4/src/raw_field.rs /home/aaraneth1337/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.6.4/src/offset_of.rs /home/aaraneth1337/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.6.4/src/span_of.rs
+
+/home/aaraneth1337/Desktop/xordsolana/try/anchor/tests/spl/token-proxy/target/bpfel-unknown-unknown/release/deps/memoffset-a65d91eae24ca101.d: /home/aaraneth1337/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.6.4/src/lib.rs /home/aaraneth1337/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.6.4/src/raw_field.rs /home/aaraneth1337/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.6.4/src/offset_of.rs /home/aaraneth1337/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.6.4/src/span_of.rs
+
+/home/aaraneth1337/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.6.4/src/lib.rs:
+/home/aaraneth1337/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.6.4/src/raw_field.rs:
+/home/aaraneth1337/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.6.4/src/offset_of.rs:
+/home/aaraneth1337/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.6.4/src/span_of.rs:
