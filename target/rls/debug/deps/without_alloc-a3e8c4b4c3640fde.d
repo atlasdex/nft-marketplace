@@ -1,0 +1,10 @@
+/home/aaraneth1337/Desktop/xordsolana/try/anchor/tests/spl/anchor_solana_tokens_wrapper/target/rls/debug/deps/without_alloc-a3e8c4b4c3640fde.rmeta: /home/aaraneth1337/.cargo/registry/src/github.com-1ecc6299db9ec823/without-alloc-0.2.1/src/lib.rs /home/aaraneth1337/.cargo/registry/src/github.com-1ecc6299db9ec823/without-alloc-0.2.1/src/alloc.rs /home/aaraneth1337/.cargo/registry/src/github.com-1ecc6299db9ec823/without-alloc-0.2.1/src/boxed.rs /home/aaraneth1337/.cargo/registry/src/github.com-1ecc6299db9ec823/without-alloc-0.2.1/src/rc.rs /home/aaraneth1337/.cargo/registry/src/github.com-1ecc6299db9ec823/without-alloc-0.2.1/src/uninit.rs /home/aaraneth1337/.cargo/registry/src/github.com-1ecc6299db9ec823/without-alloc-0.2.1/src/fixed_vec.rs
+
+/home/aaraneth1337/Desktop/xordsolana/try/anchor/tests/spl/anchor_solana_tokens_wrapper/target/rls/debug/deps/without_alloc-a3e8c4b4c3640fde.d: /home/aaraneth1337/.cargo/registry/src/github.com-1ecc6299db9ec823/without-alloc-0.2.1/src/lib.rs /home/aaraneth1337/.cargo/registry/src/github.com-1ecc6299db9ec823/without-alloc-0.2.1/src/alloc.rs /home/aaraneth1337/.cargo/registry/src/github.com-1ecc6299db9ec823/without-alloc-0.2.1/src/boxed.rs /home/aaraneth1337/.cargo/registry/src/github.com-1ecc6299db9ec823/without-alloc-0.2.1/src/rc.rs /home/aaraneth1337/.cargo/registry/src/github.com-1ecc6299db9ec823/without-alloc-0.2.1/src/uninit.rs /home/aaraneth1337/.cargo/registry/src/github.com-1ecc6299db9ec823/without-alloc-0.2.1/src/fixed_vec.rs
+
+/home/aaraneth1337/.cargo/registry/src/github.com-1ecc6299db9ec823/without-alloc-0.2.1/src/lib.rs:
+/home/aaraneth1337/.cargo/registry/src/github.com-1ecc6299db9ec823/without-alloc-0.2.1/src/alloc.rs:
+/home/aaraneth1337/.cargo/registry/src/github.com-1ecc6299db9ec823/without-alloc-0.2.1/src/boxed.rs:
+/home/aaraneth1337/.cargo/registry/src/github.com-1ecc6299db9ec823/without-alloc-0.2.1/src/rc.rs:
+/home/aaraneth1337/.cargo/registry/src/github.com-1ecc6299db9ec823/without-alloc-0.2.1/src/uninit.rs:
+/home/aaraneth1337/.cargo/registry/src/github.com-1ecc6299db9ec823/without-alloc-0.2.1/src/fixed_vec.rs:
